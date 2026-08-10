@@ -21,4 +21,4 @@ For the European continent visualization, a custom map shape was utilized:
 
 ### Data Source
 Primary data is sourced from the official FRA LGBTI Survey (2020).
-*   ➔ [Explore the official dataset and methodology](https://fra.europa.eu/en/publications-and-resources/data-and-maps/2020/lgbti-survey-data-explorer#contentSection)
+*   ➔ [Explore the official dataset and methodology](https://fra.europa.eu/en/publications-and-resources/data-and-maps/2020/lgbti-survey-data-explorer)
